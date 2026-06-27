@@ -1,7 +1,7 @@
 # local.dev — Local Test Server
 
 Flask-based local API test server with a built-in browser UI.
-Double-click the `.exe` — browser opens automatically. No setup required for the end user.
+Double-click the `.exe` - browser opens automatically. No setup required for the end user.
 
 ## Build the exe (one time)
 
